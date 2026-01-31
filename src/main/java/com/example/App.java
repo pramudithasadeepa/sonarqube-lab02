@@ -8,4 +8,5 @@ UserService service = new UserService();
 service.findUser("admin"); 
 service.deleteUser("admin"); // NEW dangerous call 
 } 
+}
 
